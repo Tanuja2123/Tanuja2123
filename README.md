@@ -20,25 +20,6 @@ I'm a passionate Computer Science student focused on building real-world web and
 - **Databases:** SQLite, PostgreSQL  
 - **Concepts:** OOP, Operating Systems, DBMS, Machine Learning  
 
----
-
-## 🧠 Projects
-
-### 💓 [Heart Failure Detection](https://github.com/Tanuja2123/HeartFailureDetection)
-> ML model to predict the risk of heart failure based on patient data. Compared SVM and ANN models.  
-Tech: Python, Pandas, NumPy, Scikit-learn
-
-### 🏠 [Bengaluru House Price Predictor](https://github.com/Tanuja2123/House-Price-Prediction) | [Data Analysis](https://github.com/Tanuja2123/HousePricePrediction-DataAnalysis) | [Live Demo](https://housepriceprediction-bt2z.onrender.com/)
-> End-to-end Flask app predicting property prices using regression models.  
-Tech: Flask, Scikit-learn, Pandas, Bootstrap, HTML/CSS
-
-### 🐦 [TweetApp](https://github.com/Tanuja2123/tweetApp.git)
-> A Django-based CRUD web app to post and manage tweets with authentication.  
-Tech: Django, ORM, HTML/CSS, Bootstrap
-
-### 📊 [Credit EDA](https://github.com/Tanuja2123/Credit_EDA)
-> Exploratory Data Analysis on credit dataset to uncover key factors in credit decisioning.  
-Tech: Python, Pandas, Seaborn, Matplotlib
 
 ---
 
