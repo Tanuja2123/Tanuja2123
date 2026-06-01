@@ -132,7 +132,6 @@ I enjoy designing AI workflows that combine reasoning, retrieval, orchestration,
 * ⚡ LeetCode Contest Rating 1600+
 * 🎯 Solved 800+ coding problems across competitive programming platforms
 * 🏅 Winner – Electrothon 5.0 (NIT Hamirpur)
-* 🥈 Runner-Up – Internal Smart India Hackathon
 
 ---
 
